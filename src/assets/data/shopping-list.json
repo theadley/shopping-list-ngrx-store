@@ -1,0 +1,10 @@
+{
+  "shoppingListItems": [
+    {"label": "Toilet Paper", "completed": false},
+    {"label": "Hand Sanitiser", "completed": false},
+    {"label": "Canned Food", "completed": true},
+    {"label": "Cards Against Humanity", "completed": true},
+    {"label": "NGRX Bored", "completed": false}
+  ]
+}
+
